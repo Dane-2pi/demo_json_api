@@ -4,7 +4,7 @@ permalink: index
 
 --- -->
 
-[base_url]: https://dane-2pi.github.io/demo_json_api/
+[base_url]: https://centre-for-invasive-species-solutions.github.io/demo_json_api/
 
 
 # Index Page
@@ -16,6 +16,5 @@ base url [base_url]
 [Human readable api](api)
 
 [API](api.json)
-
 
 <img src="./data/Species/pics/test.jpg" style="display: block; margin: auto;" />
